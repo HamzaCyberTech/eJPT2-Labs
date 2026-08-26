@@ -29,4 +29,4 @@ Completed the Search Skills lab to strengthen proficiency in using search engine
 - Combining multiple operators increases precision and reduces noise.
 - Regular audits of public search visibility are essential for security hygiene.
 
-![Search-Skills]()
+![Search-Skills](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/Search-Skills-Badge.png)
