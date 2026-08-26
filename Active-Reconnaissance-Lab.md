@@ -29,4 +29,4 @@ Completed the Active Reconnaissance lab to practice direct interaction with targ
 - Proper documentation of findings is essential for planning exploitation.
 - Organizations must monitor for scanning activity to detect potential threats early.
 
-![Active Reconnaissance](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/Active%20Reconnaissance%20Badge.png)
+![Active Reconnaissance](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/THM%20Active%20Reconnaissance%20Badge.png)
