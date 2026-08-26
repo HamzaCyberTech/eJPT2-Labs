@@ -11,7 +11,7 @@ It serves as both a **study resource** and a **portfolio of penetration testing 
  📂 Lab Index
 
 - [Passive Reconnaissance Lab](Passive-Reconnaissance-Lab.md)
-- [Web Application Pentest Lab](Web-Pentest-Lab.md)
+- [Ohsint-Lab](Ohsint-Lab.md)
 - [Active Directory Lab](Active-Directory-Lab.md)
 - [Notes & Study Prep](Notes/ejpt2-prep.md)
 
