@@ -14,8 +14,8 @@ It serves as both a **study resource** and a **portfolio of penetration testing 
 - [Passive Recon Badge](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/THM%20Passive%20Reconnaissance%20Badge.png)
 - [Ohsint-Lab](Ohsint-Lab.md)
 - [Ohsint Badge](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/THM%20Ohsint%20Lab.png)
-- [Active Directory Lab](Active-Directory-Lab.md)
-- [Notes & Study Prep](Notes/ejpt2-prep.md)
+- [Google-Dorking-Lab](Google-Dorking-Lab.md)
+- [THM Google Dorking Badge](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/THM%20Google%20Dorking%20Badge.png)
 
 
 
