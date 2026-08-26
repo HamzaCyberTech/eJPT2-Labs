@@ -11,7 +11,9 @@ It serves as both a **study resource** and a **portfolio of penetration testing 
  📂 Lab Index
 
 - [Passive Reconnaissance Lab](Passive-Reconnaissance-Lab.md)
+- [Passive Recon Badge](THM Passive Reconnaissance Badge.png)
 - [Ohsint-Lab](Ohsint-Lab.md)
+- [Ohsint Badge](THM Ohsint Lab.png)
 - [Active Directory Lab](Active-Directory-Lab.md)
 - [Notes & Study Prep](Notes/ejpt2-prep.md)
 
