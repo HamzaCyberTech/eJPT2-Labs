@@ -27,3 +27,5 @@ Conducted passive reconnaissance to gather intelligence on a target organization
 - Passive reconnaissance is stealthy and leaves no footprint.
 - Combining multiple OSINT sources strengthens intelligence gathering.
 - Documentation of findings is critical for transitioning to active testing.
+  
+![OHsint Badge](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/THM%20Passive%20Reconnaissance%20Badge.png)
