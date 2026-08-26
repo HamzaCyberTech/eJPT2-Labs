@@ -27,3 +27,5 @@ Completed the OHsint lab to practice **open-source intelligence (OSINT)** techni
 - OSINT can reveal significant personal and organizational data without direct interaction.
 - Metadata in files and images is often overlooked but highly valuable.
 - Cross-referencing multiple sources strengthens the accuracy of intelligence gathering.
+
+![OHsint Badge](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/THM%20Ohsint%20Lab.png)
