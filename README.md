@@ -16,7 +16,8 @@ It serves as both a **study resource** and a **portfolio of penetration testing 
 - [Ohsint Badge](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/THM%20Ohsint%20Lab.png)
 - [Google-Dorking-Lab](Google-Dorking-Lab.md)
 - [THM Google Dorking Badge](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/THM%20Google%20Dorking%20Badge.png)
-
+- [Search Skills Lab](Search-Skills-Lab.md)
+- [Search Skills Badge](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/Search-Skills-Badge.png)
 
 
  🛠️ Skills Demonstrated
