@@ -28,4 +28,4 @@ Completed the Google Dorking lab to practice advanced search engine techniques f
 - Organizations must implement proper indexing controls and robots.txt configurations.
 - Regular audits of publicly accessible content are essential to reduce OSINT exposure.
 
-[!Google Dorking](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/THM%20Google%20Dorking%20Badge.png)
+![Google Dorking](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/THM%20Google%20Dorking%20Badge.png)
