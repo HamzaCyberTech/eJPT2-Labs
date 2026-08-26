@@ -11,9 +11,9 @@ It serves as both a **study resource** and a **portfolio of penetration testing 
  📂 Lab Index
 
 - [Passive Reconnaissance Lab](Passive-Reconnaissance-Lab.md)
-- [Passive Recon Badge](THM Passive Reconnaissance Badge.png)
+- [Passive Recon Badge](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/THM%20Passive%20Reconnaissance%20Badge.png)
 - [Ohsint-Lab](Ohsint-Lab.md)
-- [Ohsint Badge](THM Ohsint Lab.png)
+- [Ohsint Badge](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/THM%20Ohsint%20Lab.png)
 - [Active Directory Lab](Active-Directory-Lab.md)
 - [Notes & Study Prep](Notes/ejpt2-prep.md)
 
