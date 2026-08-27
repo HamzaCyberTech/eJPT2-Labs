@@ -29,4 +29,4 @@ Completed the Nmap Live Host Discovery lab to practice identifying active hosts 
 - Using multiple discovery methods increases accuracy and reduces false negatives.
 - Proper documentation ensures smooth transition into service enumeration and vulnerability analysis.
 
-![Nmap Live Host Discovery Badge]()
+![Nmap Live Host Discovery Badge](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/Nmap-Live-Host-Discovery-Badge.png)
