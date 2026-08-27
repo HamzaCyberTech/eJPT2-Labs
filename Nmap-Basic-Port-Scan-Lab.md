@@ -29,4 +29,4 @@ Completed the Nmap Basic Port Scan lab to practice fundamental scanning techniqu
 - Service version detection provides critical context for vulnerability research.
 - Comprehensive port coverage reduces the risk of overlooking exploitable services.
 
-![Nmap-Basic-Port-Scan]()
+![Nmap-Basic-Port-Scan](https://github.com/HamzaCyberTech/eJPT2-Labs/blob/main/Nmap-Basic-Port-Scan.png)
